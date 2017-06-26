@@ -1,4 +1,4 @@
-package com.inkitt.aptentive;
+package com.krazylabs.apptentive;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
@@ -31,6 +31,6 @@ public class RNApptentivePackage implements ReactPackage {
 
     @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
-        return Arrays.<ViewManager>asList();
+        return Collections.emptyList();
     }
 }

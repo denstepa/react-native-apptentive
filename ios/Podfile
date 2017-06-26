@@ -1,6 +1,7 @@
 platform :ios, '8.0'
-use_frameworks!
 
-target 'Aptentive' do
-  pod 'apptentive-ios'
-end
+
+  target 'RNApptentive' do
+    use_frameworks!
+    pod 'apptentive-ios'
+  end
