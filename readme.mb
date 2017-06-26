@@ -25,14 +25,3 @@ Then run:
 ```bash
 pod install
 ```
-
-
-## Usage
-
-```js
-// Import Apptentive.
-import RNApptentive from 'react-native-apptentive';
-
-// Send Custom Tracking Event
-RNApptentive.engage('custom-event-name', () => {});
-

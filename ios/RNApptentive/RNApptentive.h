@@ -1,12 +1,9 @@
-//
-//  RNApptentive.h
-//  RNApptentive
-//
-//  Created by Denis Stepanov on 22.08.16.
-//  Copyright © 2016 Facebook. All rights reserved.
-//
 
-#import "RCTBridgeModule.h"
+
+#import <React/RCTBridgeModule.h>
+#import <Apptentive.h>
+#import <UIKit/UIKit.h>
+
 
 @interface RNApptentive : NSObject <RCTBridgeModule>
 

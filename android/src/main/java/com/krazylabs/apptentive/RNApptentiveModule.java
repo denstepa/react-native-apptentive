@@ -24,6 +24,6 @@ public class RNApptentiveModule extends ReactContextBaseJavaModule {
     }
 
 //    @ReactMethod void register() {
-//        Apptentive.register(getReactApplicationContext(), "360ed1e15447654354b1e17b2b087307f7bbc311be12bfb07d7ef648aa0ab5c9");
+//        Apptentive.register(this, "360ed1e15447654354b1e17b2b087307f7bbc311be12bfb07d7ef648aa0ab5c9");
 //    }
 }
