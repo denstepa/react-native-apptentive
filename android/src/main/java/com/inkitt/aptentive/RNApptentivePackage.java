@@ -24,7 +24,7 @@ public class RNApptentivePackage implements ReactPackage {
         return modules;
     }
 
-    @Override
+    // RN 47+ update
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
