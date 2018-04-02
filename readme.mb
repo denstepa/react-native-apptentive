@@ -2,6 +2,9 @@
 
 React Native wrapper for [Apptentive](https://www.apptentive.com/).
 
+## DEPRECATED
+This repo is no longer supported. Please, consider using the official [Apptentive React Native Module](https://github.com/apptentive/apptentive-react-native) instead.
+
 ## Setup
 
 # NPM
